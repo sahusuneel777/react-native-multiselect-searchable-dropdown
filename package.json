@@ -1,0 +1,21 @@
+{
+  "name": "react-native-multi-select-search-dropdown",
+  "version": "1.0.3",
+  "description": "This library is ideal for the search with multi select dropdown value.s ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "multi",
+    "select",
+    "search",
+    "react native"
+  ],
+  "author": "suneel",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "17.0.2",
+    "react-native": "^0.68.2"
+  }
+}
